@@ -1,9 +1,9 @@
 general {
     colors = true
     interval = 5
-    color_good = "#657dce"
-    color_bad = "#D90843"
-    color_degraded = "#D90843"
+    color_good = "#A3BE8C"
+    color_bad = "#BF616A"
+    color_degraded = "#BF616A"
     output_format = "i3bar"
 }
 
