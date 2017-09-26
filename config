@@ -39,7 +39,7 @@ ethernet eth0 {
 }
 
 tztime local {
-   format = "🕐 %m.%d%l:%M:%p "
+   format = "🕐 %m.%d %l:%M:%p "
 }
 
 battery 0 {
